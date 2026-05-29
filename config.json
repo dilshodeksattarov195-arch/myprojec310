@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentppdate",
+        "uuid": 2366540,
+        "checksum": "4enrti"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
